@@ -1,0 +1,1459 @@
+[
+  {
+    "name": "忌み鬼の呪物",
+    "color": "blue",
+    "effects": [
+      "武器の持ち替え時、物理攻撃力上昇",
+      "投擲ナイフの攻撃力上昇",
+      "生命力+1"
+    ],
+    "location": "チュートリアルのボス「忌み鬼」を撃破",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "チュートリアルクリア"
+  },
+  {
+    "name": "古びた懐中時計",
+    "color": "green",
+    "effects": [
+      "攻撃連続時、FP回復",
+      "技量+3"
+    ],
+    "location": "リムグレイブのクリア報酬（確率入手）",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "3～6回出撃後 または 三つ首の獣撃破"
+  },
+  {
+    "name": "薄汚れたフレーム",
+    "color": "blue",
+    "effects": [
+      "攻撃を受けると攻撃力上昇",
+      "信仰+3"
+    ],
+    "location": "小壺商人のバザー（1,500ルーン・レディ加入後）",
+    "vendor": "小壺商人のバザー",
+    "price": 1500,
+    "unlock_condition": "レディ加入後"
+  },
+  {
+    "name": "にび色の砥石",
+    "color": "red",
+    "effects": [
+      "【追跡者】スキル使用時、通常攻撃で炎を纏った追撃を行う（大剣のみ）",
+      "物理攻撃力上昇"
+    ],
+    "location": "追跡者のジャーナル3クリア報酬",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "追跡者のジャーナル3完了"
+  },
+  {
+    "name": "銀の雫",
+    "color": "red",
+    "effects": [
+      "【追跡者】アビリティ発動時、アーツゲージ増加",
+      "アーツゲージ自然蓄積+3",
+      "神秘+3"
+    ],
+    "location": "追跡者のジャーナル7クリア報酬",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "追跡者のジャーナル7完了"
+  },
+  {
+    "name": "追跡者の耳飾り",
+    "color": "red",
+    "effects": [
+      "【追跡者】アーツ発動時、周囲を延焼",
+      "【追跡者】スキルの使用回数+1",
+      "攻撃命中時、スタミナ回復"
+    ],
+    "location": "追跡者のジャーナル8クリア報酬",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "追跡者のジャーナル8完了"
+  },
+  {
+    "name": "石の杭",
+    "color": "red",
+    "effects": [
+      "【守護者】スキルの持続時間延長",
+      "スキルクールタイム軽減+3"
+    ],
+    "location": "守護者のジャーナル4クリア報酬",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "守護者のジャーナル4完了"
+  },
+  {
+    "name": "三冊目の本",
+    "color": "red",
+    "effects": [
+      "【守護者】斧槍タメ攻撃時、つむじ風が発生",
+      "斧槍の攻撃でHP回復"
+    ],
+    "location": "守護者のジャーナル7クリア報酬",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "守護者のジャーナル7完了"
+  },
+  {
+    "name": "魔女のブローチ（砕けた魔女のブローチ）",
+    "color": "blue",
+    "effects": [
+      "【守護者】アーツ発動時、周囲の味方HPを徐々に回復",
+      "【守護者】アビリティ発動中、ガード成功時、衝撃波が発生",
+      "生命力+3"
+    ],
+    "location": "守護者のジャーナル9クリア報酬",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "守護者のジャーナル9完了"
+  },
+  {
+    "name": "割れた封蝋",
+    "color": "yellow",
+    "effects": [
+      "【鉄の目】弱点の持続時間を延長させる",
+      "致命の一撃で、ルーンを取得"
+    ],
+    "location": "鉄の目のジャーナル4クリア報酬",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "鉄の目のジャーナル4完了"
+  },
+  {
+    "name": "聖律の刃",
+    "color": "yellow",
+    "effects": [
+      "【鉄の目】アーツ発動後、刺突カウンター強化",
+      "出撃時の武器に聖攻撃力を付加",
+      "弓の攻撃力上昇"
+    ],
+    "location": "鉄の目のジャーナル6クリア報酬",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "鉄の目のジャーナル6完了"
+  },
+  {
+    "name": "金色の露",
+    "color": "yellow",
+    "effects": [
+      "【レディ】スキルのダメージ上昇",
+      "属性攻撃力が付加された時、属性攻撃力上昇"
+    ],
+    "location": "レディのジャーナル3クリア報酬",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "レディのジャーナル3完了"
+  },
+  {
+    "name": "頭冠のメダル",
+    "color": "green",
+    "effects": [
+      "【レディ】短剣による攻撃連続時、周囲の敵に、直近の出来事を再演",
+      "短剣の攻撃力上昇"
+    ],
+    "location": "レディのジャーナル6クリア報酬",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "レディのジャーナル6完了"
+  },
+  {
+    "name": "祝福された鉄貨",
+    "color": "green",
+    "effects": [
+      "【レディ】アーツ発動中、敵撃破で攻撃力上昇",
+      "HP持続回復",
+      "生命力+3"
+    ],
+    "location": "レディのジャーナル8クリア報酬",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "レディのジャーナル8完了"
+  },
+  {
+    "name": "ちぎれた組み紐",
+    "color": "blue",
+    "effects": [
+      "【無頼漢】スキル中に攻撃を受けると攻撃力と最大スタミナ上昇",
+      "筋力+3"
+    ],
+    "location": "無頼漢のジャーナル2クリア報酬",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "無頼漢のジャーナル2完了"
+  },
+  {
+    "name": "黒爪の首飾り",
+    "color": "yellow",
+    "effects": [
+      "トーテム・ステラの周囲で敵を倒した時、HP回復",
+      "敵を倒した時、アーツゲージ増加",
+      "強靭度+3"
+    ],
+    "location": "無頼漢のジャーナル7クリア報酬",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "無頼漢のジャーナル7完了"
+  },
+  {
+    "name": "小さな化粧道具",
+    "color": "blue",
+    "effects": [
+      "【復讐者】ファミリーと共闘中の間、自身を強化",
+      "自身と味方の取得ルーン増加"
+    ],
+    "location": "復讐者のジャーナル1クリア報酬",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "復讐者のジャーナル1完了"
+  },
+  {
+    "name": "古びたミニアチュール",
+    "color": "blue",
+    "effects": [
+      "【復讐者】アーツ発動時、霊炎の爆発を発生",
+      "【復讐者】アーツ発動時、自身のHPと引き換えに周囲の味方のHPを全回復",
+      "敵を倒した時、アーツゲージ増加"
+    ],
+    "location": "復讐者のジャーナル7クリア報酬",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "復讐者のジャーナル7完了"
+  },
+  {
+    "name": "夜の痕跡",
+    "color": "green",
+    "effects": [
+      "【隠者】属性痕を集めた時、「魔術の地」が発動",
+      "魔力攻撃力上昇+2"
+    ],
+    "location": "隠者のジャーナル4クリア報酬",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "隠者のジャーナル4完了"
+  },
+  {
+    "name": "骨のような石",
+    "color": "green",
+    "effects": [
+      "【隠者】アーツ発動時、最大HP上昇",
+      "【隠者】アーツ発動時、自身が出血状態になり、攻撃力上昇",
+      "知力+3"
+    ],
+    "location": "隠者のジャーナル7クリア報酬",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "隠者のジャーナル7完了"
+  },
+  {
+    "name": "祝福された花",
+    "color": "green",
+    "effects": [
+      "【執行者】スキル中、妖刀が解放状態になるとHP回復",
+      "技量+3"
+    ],
+    "location": "執行者のジャーナル2クリア報酬",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "執行者のジャーナル2完了"
+  },
+  {
+    "name": "黄金の萌芽",
+    "color": "red",
+    "effects": [
+      "【執行者】アーツ発動中、咆哮でHP回復",
+      "HP低下時、周囲の味方を含めHPをゆっくりと回復",
+      "ガード成功時、HP回復"
+    ],
+    "location": "執行者のジャーナル7クリア報酬",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "執行者のジャーナル7完了"
+  },
+  {
+    "name": "清浄の雫",
+    "color": "red",
+    "effects": [
+      "【学者】アーツでリンクした敵対象に、継続ダメージ",
+      "敵を倒した時、アーツゲージ増加",
+      "属性カット率上昇"
+    ],
+    "location": "",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "学者のジャーナル5完了"
+  },
+  {
+    "name": "記録「後継者へ」",
+    "color": "yellow",
+    "effects": [
+      "【学者】スキルの進捗率の低下を抑制",
+      "【学者】スキル使用時、対象に含まれた味方の攻撃力上昇",
+      "スキルクールタイム軽減+3"
+    ],
+    "location": "",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "学者のジャーナル8完了"
+  },
+  {
+    "name": "片眼鏡の革袋",
+    "color": "blue",
+    "effects": [
+      "【葬儀屋】祈祷を使用して、自身に補助効果発生時物理攻撃力上昇",
+      "魔術/祈祷、効果時間延長",
+      "物理攻撃力+2"
+    ],
+    "location": "",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "葬儀屋のジャーナル3完了"
+  },
+  {
+    "name": "ガラスの首飾り",
+    "color": "green",
+    "effects": [
+      "【葬儀屋】アーツ発動時、攻撃力上昇",
+      "攻撃連続時、攻撃力上昇",
+      "アーツゲージ自然蓄積+3"
+    ],
+    "location": "",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "葬儀屋のジャーナル7完了"
+  },
+  {
+    "name": "獣の夜",
+    "color": "green",
+    "effects": [
+      "攻撃命中時、スタミナ回復+1",
+      "出撃時の武器に炎攻撃力を付加"
+    ],
+    "location": "夜の獣グラディウスを撃破",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "夜の獣グラディウス撃破"
+  },
+  {
+    "name": "爵の夜",
+    "color": "blue",
+    "effects": [
+      "致命の一撃強化+1",
+      "致命の一撃で、アーツゲージ増加",
+      "致命の一撃で、スタミナ回復速度上昇"
+    ],
+    "location": "夜の爵エデレを撃破",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "夜の爵エデレ撃破"
+  },
+  {
+    "name": "識の夜",
+    "color": "yellow",
+    "effects": [
+      "最大FP上昇",
+      "出撃時の武器に毒の状態異常を付加",
+      "周囲で毒／腐敗状態の発生時、攻撃力上昇"
+    ],
+    "location": "夜の識グノスターを撃破",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "夜の識グノスター撃破"
+  },
+  {
+    "name": "深海の夜",
+    "color": "red",
+    "effects": [
+      "最大HP上昇",
+      "聖杯瓶の回復を、周囲の味方に分配",
+      "アイテムの効果が周囲の味方にも発動"
+    ],
+    "location": "深海の夜マリスを撃破",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "深海の夜マリス撃破"
+  },
+  {
+    "name": "魔の夜",
+    "color": "red",
+    "effects": [
+      "出撃中、ショップでの購入に必要なルーンが大割引",
+      "ジェスチャー「あぐら」により、発狂が蓄積",
+      "発狂状態になると、FP持続回復"
+    ],
+    "location": "夜の魔リブラを撃破",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "夜の魔リブラ撃破"
+  },
+  {
+    "name": "狩人の夜",
+    "color": "green",
+    "effects": [
+      "最大スタミナ上昇",
+      "ガードカウンターに、自身の現在HPの一部を加える",
+      "刺突カウンター発生時、HP回復"
+    ],
+    "location": "夜光の騎士フルゴールを撃破",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "夜光の騎士フルゴール撃破"
+  },
+  {
+    "name": "霞の夜",
+    "color": "yellow",
+    "effects": [
+      "周囲で凍傷状態の発生時、自身の姿を隠す",
+      "出撃時の武器の戦技を「冷気の霧」にする（※適用可能な武器種のみ）",
+      "凍傷状態の敵に対する攻撃を強化"
+    ],
+    "location": "夜の霞カリゴを撃破",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "夜の霞カリゴ撃破"
+  },
+  {
+    "name": "王の夜",
+    "color": "blue",
+    "effects": [
+      "武器の持ち替え時、いずれかの属性攻撃力を付加",
+      "属性攻撃力が付加された時、属性攻撃力上昇",
+      "武器の持ち替え時、物理攻撃力上昇"
+    ],
+    "location": "夜の王ナメレスを撃破",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "夜の王ナメレス撃破"
+  },
+  {
+    "name": "安寧者の遺志",
+    "color": "blue",
+    "effects": [
+      "近接攻撃力上昇",
+      "戦技攻撃力上昇",
+      "FP持続回復"
+    ],
+    "location": "安寧者たち撃破",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "安寧者たち撃破"
+  },
+  {
+    "name": "瓦礫の夜",
+    "color": "red",
+    "effects": [
+      "状態異常ゲージがある時、徐々に攻撃力上昇",
+      "被ダメージ時、腐敗の状態異常を付加",
+      "周囲で腐敗状態の発生時、HP持続回復"
+    ],
+    "location": "瓦礫の王撃破",
+    "vendor": "",
+    "price": null,
+    "unlock_condition": "瓦礫の王撃破"
+  },
+  {
+    "name": "獣の暗き夜",
+    "color": "yellow",
+    "effects": [
+      "攻撃命中時、スタミナ回復+1",
+      "攻撃を受けると攻撃力上昇",
+      "炎攻撃力上昇+2"
+    ],
+    "location": "常夜の王「三つ首の獣」撃破後",
+    "vendor": "コレクターの看板",
+    "price": null,
+    "unlock_condition": "常夜の王「三つ首の獣」撃破"
+  },
+  {
+    "name": "爵の暗き夜",
+    "color": "red",
+    "effects": [
+      "致命の一撃強化+1",
+      "致命の一撃強化",
+      "致命の一撃で、ルーンを取得"
+    ],
+    "location": "常夜の王「喰らいつく顎」撃破後",
+    "vendor": "コレクターの看板",
+    "price": null,
+    "unlock_condition": "常夜の王「喰らいつく顎」撃破"
+  },
+  {
+    "name": "識の暗き夜",
+    "color": "green",
+    "effects": [
+      "最大FP上昇",
+      "攻撃連続時、FP回復",
+      "魔術師塔の仕掛けが解除される度、最大FP上昇"
+    ],
+    "location": "常夜の王「知性の蟲」撃破後",
+    "vendor": "コレクターの看板",
+    "price": null,
+    "unlock_condition": "常夜の王「知性の蟲」撃破"
+  },
+  {
+    "name": "深海の暗き夜",
+    "color": "blue",
+    "effects": [
+      "最大HP上昇",
+      "HP持続回復",
+      "HP低下時、周囲の味方を含めHPをゆっくりと回復"
+    ],
+    "location": "常夜の王「兆し」撃破後",
+    "vendor": "コレクターの看板",
+    "price": null,
+    "unlock_condition": "常夜の王「兆し」撃破"
+  },
+  {
+    "name": "魔の暗き夜",
+    "color": "blue",
+    "effects": [
+      "攻撃を受けると攻撃力上昇",
+      "ジェスチャー「あぐら」により、発狂が蓄積",
+      "発狂状態になると、FP持続回復"
+    ],
+    "location": "常夜の王「調律の魔物」撃破後",
+    "vendor": "コレクターの看板",
+    "price": null,
+    "unlock_condition": "常夜の王「調律の魔物」撃破"
+  },
+  {
+    "name": "狩人の暗き夜",
+    "color": "yellow",
+    "effects": [
+      "最大スタミナ上昇",
+      "属性攻撃力が付加された時、属性攻撃力上昇",
+      "敵を倒した時、アーツゲージ増加"
+    ],
+    "location": "常夜の王「闇駆ける狩人」撃破後",
+    "vendor": "コレクターの看板",
+    "price": null,
+    "unlock_condition": "常夜の王「闇駆ける狩人」撃破"
+  },
+  {
+    "name": "霞の暗き夜",
+    "color": "green",
+    "effects": [
+      "周囲で凍傷状態の発生時、自身の姿を隠す",
+      "出撃時の武器に冷気の状態異常を付加",
+      "物理カット率上昇"
+    ],
+    "location": "常夜の王「霧の裂け目」撃破後",
+    "vendor": "コレクターの看板",
+    "price": null,
+    "unlock_condition": "常夜の王「霧の裂け目」撃破"
+  },
+  {
+    "name": "安寧の遺志",
+    "color": "red",
+    "effects": [
+      "近接攻撃力上昇",
+      "戦技攻撃力上昇",
+      "カット率低下時、稀に敵から受ける攻撃を無効化"
+    ],
+    "location": "救いの旗手「安寧者たち」撃破",
+    "vendor": "コレクターの看板",
+    "price": null,
+    "unlock_condition": "救いの旗手「安寧者たち」撃破"
+  },
+  {
+    "name": "壮大な燃える景色",
+    "color": "red",
+    "effects": [
+      "自身と味方の取得ルーン増加",
+      "出撃時に「石剣の鍵」を持つ",
+      "出撃中、ショップでの購入に必要なルーンが割引"
+    ],
+    "location": "ラスボス撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 1000,
+    "unlock_condition": "ラスボス撃破後"
+  },
+  {
+    "name": "壮大な静まる景色",
+    "color": "green",
+    "effects": [
+      "ダメージを受けた直後、攻撃によりHPの一部を回復",
+      "生命力+2",
+      "強靭度+2"
+    ],
+    "location": "ラスボス撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 1000,
+    "unlock_condition": "ラスボス撃破後"
+  },
+  {
+    "name": "壮大な燃える景色",
+    "color": "red",
+    "effects": [
+      "【追跡者】アーツ発動時、周囲を延焼",
+      "筋力+2",
+      "技量+2"
+    ],
+    "location": "夜の王4体撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 1000,
+    "unlock_condition": "夜の王4体撃破後"
+  },
+  {
+    "name": "壮大な滴る景色",
+    "color": "blue",
+    "effects": [
+      "【守護者】アビリティ発動中、被ダメージを一部返す",
+      "生命力+2",
+      "持久力+2"
+    ],
+    "location": "夜の王4体撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 1000,
+    "unlock_condition": "夜の王4体撃破後"
+  },
+  {
+    "name": "壮大な静まる景色",
+    "color": "green",
+    "effects": [
+      "【レディ】スキルのダメージ上昇",
+      "技量+2",
+      "知力+2"
+    ],
+    "location": "夜の王4体撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 1000,
+    "unlock_condition": "夜の王4体撃破後"
+  },
+  {
+    "name": "壮大な静まる景色",
+    "color": "green",
+    "effects": [
+      "【隠者】アーツ発動時、自身が出血状態になり、攻撃力上昇",
+      "精神力+2",
+      "知力+2"
+    ],
+    "location": "夜の王4体撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 1000,
+    "unlock_condition": "夜の王4体撃破後"
+  },
+  {
+    "name": "壮大な輝く景色",
+    "color": "yellow",
+    "effects": [
+      "【鉄の目】弱点の持続時間を延長させる",
+      "持久力+2",
+      "技量+2"
+    ],
+    "location": "夜の王4体撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 1000,
+    "unlock_condition": "夜の王4体撃破後"
+  },
+  {
+    "name": "壮大な滴る景色",
+    "color": "blue",
+    "effects": [
+      "トーテム・ステラの周囲で、強靭度上昇",
+      "生命力+2",
+      "筋力+2"
+    ],
+    "location": "夜の王4体撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 1000,
+    "unlock_condition": "夜の王4体撃破後"
+  },
+  {
+    "name": "壮大な滴る景色",
+    "color": "blue",
+    "effects": [
+      "【復讐者】アーツ発動時、霊炎の爆発を発生",
+      "信仰+2",
+      "神秘+2"
+    ],
+    "location": "夜の王4体撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 1000,
+    "unlock_condition": "夜の王4体撃破後"
+  },
+  {
+    "name": "壮大な燃える景色",
+    "color": "red",
+    "effects": [
+      "【執行者】アーツ発動中、咆哮でHP回復",
+      "技量+2",
+      "神秘+2"
+    ],
+    "location": "夜の王4体撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 1000,
+    "unlock_condition": "夜の王4体撃破後"
+  },
+  {
+    "name": "壮大な燃える景色",
+    "color": "red",
+    "effects": [
+      "【学者】スキルの進捗率の低下を抑制",
+      "知力+2",
+      "神秘+2"
+    ],
+    "location": "ハルモニア撃破後（要DLC）",
+    "vendor": "小壺商人のバザー",
+    "price": 1000,
+    "unlock_condition": "ハルモニア撃破後（要DLC）"
+  },
+  {
+    "name": "壮大な静まる景色",
+    "color": "green",
+    "effects": [
+      "【葬儀屋】連撃の最終攻撃命中時、攻撃力上昇",
+      "筋力+2",
+      "信仰+2"
+    ],
+    "location": "ハルモニア撃破後（要DLC）",
+    "vendor": "小壺商人のバザー",
+    "price": 1000,
+    "unlock_condition": "ハルモニア撃破後（要DLC）"
+  },
+  {
+    "name": "端正な燃える景色",
+    "color": "red",
+    "effects": [
+      "輝石、重力石アイテムの攻撃力上昇",
+      "出撃時に「小さなポーチ」を持つ"
+    ],
+    "location": "夜の王3体撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 700,
+    "unlock_condition": "夜の王3体撃破後"
+  },
+  {
+    "name": "端正な静まる景色",
+    "color": "green",
+    "effects": [
+      "聖杯瓶の回復を、周囲の味方に分配",
+      "敵を倒した時、自身を除く周囲の味方のHPを回復"
+    ],
+    "location": "夜の王3体撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 700,
+    "unlock_condition": "夜の王3体撃破後"
+  },
+  {
+    "name": "端正な輝く景色",
+    "color": "yellow",
+    "effects": [
+      "毒耐性上昇",
+      "腐敗耐性上昇"
+    ],
+    "location": "夜の王3体撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 700,
+    "unlock_condition": "夜の王3体撃破後"
+  },
+  {
+    "name": "端正な輝く景色",
+    "color": "yellow",
+    "effects": [
+      "出血耐性上昇",
+      "冷気耐性上昇"
+    ],
+    "location": "夜の王3体撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 700,
+    "unlock_condition": "夜の王3体撃破後"
+  },
+  {
+    "name": "端正な滴る景色",
+    "color": "blue",
+    "effects": [
+      "睡眠耐性上昇",
+      "発狂耐性上昇"
+    ],
+    "location": "夜の王3体撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 700,
+    "unlock_condition": "夜の王3体撃破後"
+  },
+  {
+    "name": "端正な滴る景色",
+    "color": "blue",
+    "effects": [
+      "精神力+3",
+      "抗死耐性上昇"
+    ],
+    "location": "夜の王3体撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 700,
+    "unlock_condition": "夜の王3体撃破後"
+  },
+  {
+    "name": "端正な静まる景色",
+    "color": "green",
+    "effects": [
+      "脂アイテム使用時、追加で物理攻撃力上昇",
+      "持久力+3"
+    ],
+    "location": "グラディウス撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 700,
+    "unlock_condition": "グラディウス撃破後"
+  },
+  {
+    "name": "端正な滴る景色",
+    "color": "blue",
+    "effects": [
+      "ガード中、敵に狙われやすくなる",
+      "生命力+3"
+    ],
+    "location": "グラディウス撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 700,
+    "unlock_condition": "グラディウス撃破後"
+  },
+  {
+    "name": "端正な燃える景色",
+    "color": "red",
+    "effects": [
+      "アーツゲージ自然蓄積+2",
+      "魔力カット率上昇"
+    ],
+    "location": "グラディウス撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 700,
+    "unlock_condition": "グラディウス撃破後"
+  },
+  {
+    "name": "端正な静まる景色",
+    "color": "green",
+    "effects": [
+      "スキルクールタイム軽減+2",
+      "炎カット率上昇"
+    ],
+    "location": "グラディウス撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 700,
+    "unlock_condition": "グラディウス撃破後"
+  },
+  {
+    "name": "端正な静まる景色",
+    "color": "green",
+    "effects": [
+      "スキルクールタイム軽減+2",
+      "雷カット率上昇"
+    ],
+    "location": "グラディウス撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 700,
+    "unlock_condition": "グラディウス撃破後"
+  },
+  {
+    "name": "端正な燃える景色",
+    "color": "red",
+    "effects": [
+      "アーツゲージ自然蓄積+2",
+      "聖カット率上昇"
+    ],
+    "location": "グラディウス撃破後",
+    "vendor": "小壺商人のバザー",
+    "price": 700,
+    "unlock_condition": "グラディウス撃破後"
+  },
+  {
+    "name": "繊細な燃える景色",
+    "color": "red",
+    "effects": [
+      "出撃時に「火炎壺」を持つ"
+    ],
+    "location": "初期",
+    "vendor": "小壺商人のバザー",
+    "price": 500,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "繊細な滴る景色",
+    "color": "blue",
+    "effects": [
+      "出撃時に武器に魔力攻撃力を付加"
+    ],
+    "location": "初期",
+    "vendor": "小壺商人のバザー",
+    "price": 500,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "繊細な輝く景色",
+    "color": "yellow",
+    "effects": [
+      "出撃時に「雷脂」を持つ"
+    ],
+    "location": "初期",
+    "vendor": "小壺商人のバザー",
+    "price": 500,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "繊細な静まる景色",
+    "color": "green",
+    "effects": [
+      "出撃時の武器の戦技を「聖なる刃」にする（適用可能な武器種のみ）"
+    ],
+    "location": "初期",
+    "vendor": "小壺商人のバザー",
+    "price": 500,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "繊細な輝く景色",
+    "color": "yellow",
+    "effects": [
+      "致命の一撃強化"
+    ],
+    "location": "初期",
+    "vendor": "小壺商人のバザー",
+    "price": 500,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "端正な燃える景色",
+    "color": "red",
+    "effects": [
+      "投擲壺の攻撃力上昇",
+      "投擲ナイフの攻撃力上昇"
+    ],
+    "location": "初期",
+    "vendor": "小壺商人のバザー",
+    "price": 500,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "壮大な滴る景色",
+    "color": "blue",
+    "effects": [
+      "【追跡者】アーツ発動時、周囲を延焼",
+      "出撃時の武器の戦技を「炎撃」にする",
+      "※適用可能な武器種のみ",
+      "炎攻撃力上昇+2"
+    ],
+    "location": "初期",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "壮大な燃える景色",
+    "color": "red",
+    "effects": [
+      "【追跡者】精神力上昇、生命力低下",
+      "生命力+3",
+      "精神力+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な滴る景色",
+    "color": "blue",
+    "effects": [
+      "【追跡者】知力/信仰上昇、筋力/技量低下",
+      "知力+3",
+      "信仰+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な燃える景色",
+    "color": "red",
+    "effects": [
+      "【守護者】アビリティ発動中、被ダメージを一部返す",
+      "ガード成功時、アーツゲージ増加",
+      "持久力+3"
+    ],
+    "location": "初期",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "壮大な燃える景色",
+    "color": "red",
+    "effects": [
+      "【守護者】筋力/技量上昇、生命力低下",
+      "筋力+3",
+      "技量+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な輝く景色",
+    "color": "yellow",
+    "effects": [
+      "【守護者】精神力/信仰上昇、生命力低下",
+      "精神力+3",
+      "信仰+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な静まる景色",
+    "color": "green",
+    "effects": [
+      "【レディ】背後からの致命の一撃後",
+      "自身の姿を見え難くし、足音を消す",
+      "致命の一撃強化",
+      "スキルクールタイム軽減+2"
+    ],
+    "location": "初期",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "壮大な燃える景色",
+    "color": "red",
+    "effects": [
+      "【レディ】生命力/筋力上昇、精神力低下",
+      "生命力+3",
+      "筋力+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な滴る景色",
+    "color": "blue",
+    "effects": [
+      "【レディ】精神力/信仰上昇、知力低下",
+      "精神力+3",
+      "信仰+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な静まる景色",
+    "color": "green",
+    "effects": [
+      "杖の武器種を3つ以上装備していると最大FP上昇",
+      "魔術師塔の仕掛けが解除される度、最大FP上昇",
+      "魔力攻撃力上昇"
+    ],
+    "location": "初期",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "壮大な滴る景色",
+    "color": "blue",
+    "effects": [
+      "【隠者】生命力/持久力/技量上昇、知力/信仰低下",
+      "生命力+3",
+      "持久力+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な静まる景色",
+    "color": "green",
+    "effects": [
+      "【隠者】知力/信仰上昇、精神力低下",
+      "知力+3",
+      "信仰+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な燃える景色",
+    "color": "red",
+    "effects": [
+      "【鉄の目】アーツのタメ発動時、毒の状態異常を付加",
+      "毒状態の敵に対する攻撃を強化",
+      "アーツゲージ自然蓄積+3"
+    ],
+    "location": "初期",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "壮大な輝く景色",
+    "color": "yellow",
+    "effects": [
+      "【鉄の目】生命力/筋力上昇/技量低下",
+      "生命力+3",
+      "筋力+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な静まる景色",
+    "color": "green",
+    "effects": [
+      "【鉄の目】神秘上昇、技量低下",
+      "技量+3",
+      "神秘+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な輝く景色",
+    "color": "yellow",
+    "effects": [
+      "【無頼漢】アーツの効果時間延長",
+      "特大武器の攻撃力上昇",
+      "持久力+3"
+    ],
+    "location": "初期",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "壮大な燃える景色",
+    "color": "red",
+    "effects": [
+      "【無頼漢】精神力/知力上昇、生命力/持久力低下",
+      "精神力+3",
+      "知力+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な静まる景色",
+    "color": "green",
+    "effects": [
+      "【無頼漢】神秘上昇、生命力低下",
+      "生命力+3",
+      "神秘+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な滴る景色",
+    "color": "blue",
+    "effects": [
+      "【復讐者】アーツ発動時、ファミリーと味方を強化",
+      "アイテムの効果が周囲の味方にも発動",
+      "出撃時に「星光の欠片」を持つ"
+    ],
+    "location": "初期",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "壮大な滴る景色",
+    "color": "blue",
+    "effects": [
+      "【復讐者】生命力/持久力上昇、精神力低下",
+      "生命力+3",
+      "持久力+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な輝く景色",
+    "color": "yellow",
+    "effects": [
+      "【復讐者】筋力上昇、信仰低下",
+      "筋力+3",
+      "信仰+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な輝く景色",
+    "color": "yellow",
+    "effects": [
+      "【執行者】スキル中の攻撃力上昇、攻撃時にカット率低下",
+      "ガード成功時、HP回復",
+      "ガード成功時、アーツゲージ増加"
+    ],
+    "location": "初期",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "壮大な燃える景色",
+    "color": "red",
+    "effects": [
+      "【執行者】生命力/持久力上昇、神秘低下",
+      "生命力+3",
+      "持久力+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な輝く景色",
+    "color": "yellow",
+    "effects": [
+      "【執行者】技量/神秘上昇、生命力低下",
+      "技量+3",
+      "神秘+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な輝く景色",
+    "color": "yellow",
+    "effects": [
+      "【学者】スキルによる標本が増える度、ルーンを取得",
+      "出撃時に「小さなポーチ」を持つ",
+      "出撃時に「小さなポーチ」を持つ"
+    ],
+    "location": "学者で常夜の王撃破",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "学者で常夜の王撃破"
+  },
+  {
+    "name": "壮大な燃える景色",
+    "color": "red",
+    "effects": [
+      "【学者】精神力上昇、生命力低下",
+      "生命力+3",
+      "精神力+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な輝く景色",
+    "color": "yellow",
+    "effects": [
+      "【学者】持久力/技量上昇、知力/神秘低下",
+      "持久力+3",
+      "技量+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な滴る景色",
+    "color": "blue",
+    "effects": [
+      "【葬儀屋】アーツ発動時、触れた味方のHP回復",
+      "ダメージを受けた直後、攻撃によりHPの一部を回復",
+      "敵を倒した時、アーツゲージ増加"
+    ],
+    "location": "葬儀屋で常夜の王撃破",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "葬儀屋で常夜の王撃破"
+  },
+  {
+    "name": "壮大な滴る景色",
+    "color": "blue",
+    "effects": [
+      "【葬儀屋】技量上昇、生命力/信仰低下",
+      "生命力+3",
+      "技量+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な静まる景色",
+    "color": "green",
+    "effects": [
+      "【葬儀屋】精神力/信仰上昇、筋力低下",
+      "精神力+3",
+      "信仰+3"
+    ],
+    "location": "「瓦礫の王」撃破(DLC)",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "「瓦礫の王」撃破(DLC)"
+  },
+  {
+    "name": "壮大な燃える景色",
+    "color": "red",
+    "effects": [
+      "HP低下時、周囲の味方を含めHPをゆっくりと回復",
+      "HP低下時、カット率上昇",
+      "生命力+3"
+    ],
+    "location": "初期",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "壮大な静まる景色",
+    "color": "green",
+    "effects": [
+      "両手持ちの、体勢を崩す力上昇",
+      "通常攻撃の1段目強化",
+      "強靭度+3"
+    ],
+    "location": "初期",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "壮大な燃える景色",
+    "color": "red",
+    "effects": [
+      "二刀持ちの、体勢を崩す力上昇",
+      "攻撃命中時、スタミナ回復",
+      "持久力+3"
+    ],
+    "location": "初期",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "壮大な輝く景色",
+    "color": "yellow",
+    "effects": [
+      "封牢の囚を倒す度、攻撃力上昇",
+      "埋もれ宝の位置を地図に表示",
+      "出撃時に「石剣の鍵」を持つ"
+    ],
+    "location": "初期",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "壮大な滴る景色",
+    "color": "blue",
+    "effects": [
+      "出撃時に「星光の欠片」を持つ",
+      "出撃時に「星光の欠片」を持つ",
+      "出撃時に「星光の欠片」を持つ"
+    ],
+    "location": "初期",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "壮大な燃える景色",
+    "color": "red",
+    "effects": [
+      "苔薬などのアイテム使用でHP回復",
+      "アイテムの効果が周囲の味方にも発動",
+      "出撃時に「小さなポーチ」を持つ"
+    ],
+    "location": "学者で常夜の王撃破",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "学者で常夜の王撃破"
+  },
+  {
+    "name": "壮大な滴る景色",
+    "color": "blue",
+    "effects": [
+      "大教会の強敵を倒す度、最大HP上昇",
+      "遺跡の強敵を倒す度、神秘上昇",
+      "魔術師塔の仕掛けが解除される度、最大FP上昇"
+    ],
+    "location": "学者で常夜の王撃破",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "学者で常夜の王撃破"
+  },
+  {
+    "name": "壮大な輝く景色",
+    "color": "yellow",
+    "effects": [
+      "致命の一撃で、アーツゲージ増加",
+      "敵を倒した時、アーツゲージ増加",
+      "アーツゲージ自然蓄積+3"
+    ],
+    "location": "葬儀屋で常夜の王撃破",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "葬儀屋で常夜の王撃破"
+  },
+  {
+    "name": "壮大な静まる景色",
+    "color": "green",
+    "effects": [
+      "攻撃を受けると攻撃力上昇",
+      "ダメージで吹き飛ばされた時、強靭度とカット率上昇",
+      "物理攻撃力+2"
+    ],
+    "location": "葬儀屋で常夜の王撃破",
+    "vendor": "コレクターの看板",
+    "price": 3,
+    "unlock_condition": "葬儀屋で常夜の王撃破"
+  },
+  {
+    "name": "大きな景色の原石",
+    "color": "",
+    "effects": [
+      "ランダムな遺物(大)を入手"
+    ],
+    "location": "初期",
+    "vendor": "コレクターの看板",
+    "price": 5,
+    "unlock_condition": "初期"
+  },
+  {
+    "name": "大きな昏景の原石",
+    "color": "",
+    "effects": [
+      "ランダムな深層の遺物(大)を入手"
+    ],
+    "location": "初期",
+    "vendor": "コレクターの看板",
+    "price": 10,
+    "unlock_condition": "初期"
+  }
+]

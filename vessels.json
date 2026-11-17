@@ -1,0 +1,1038 @@
+[
+  {
+    "character": "共通",
+    "name": "黄金樹の聖杯",
+    "normal": [
+      "yellow",
+      "yellow",
+      "yellow"
+    ],
+    "deep": [
+      "yellow",
+      "yellow",
+      "yellow"
+    ]
+  },
+  {
+    "character": "共通",
+    "name": "霊樹の聖杯",
+    "normal": [
+      "green",
+      "green",
+      "green"
+    ],
+    "deep": [
+      "green",
+      "green",
+      "green"
+    ]
+  },
+  {
+    "character": "共通",
+    "name": "巨人樹の聖杯",
+    "normal": [
+      "blue",
+      "blue",
+      "blue"
+    ],
+    "deep": [
+      "blue",
+      "blue",
+      "blue"
+    ]
+  },
+  {
+    "character": "共通",
+    "name": "影樹の聖杯",
+    "normal": [
+      "red",
+      "red",
+      "red"
+    ],
+    "deep": [
+      "red",
+      "red",
+      "red"
+    ]
+  },
+  {
+    "character": "追跡者",
+    "name": "追跡者の器",
+    "normal": [
+      "red",
+      "red",
+      "blue"
+    ],
+    "deep": [
+      "red",
+      "red",
+      "blue"
+    ]
+  },
+  {
+    "character": "追跡者",
+    "name": "追跡者の盃",
+    "normal": [
+      "yellow",
+      "green",
+      "green"
+    ],
+    "deep": [
+      "yellow",
+      "green",
+      "green"
+    ]
+  },
+  {
+    "character": "追跡者",
+    "name": "追跡者の高杯",
+    "normal": [
+      "red",
+      "yellow",
+      "all"
+    ],
+    "deep": [
+      "red",
+      "blue",
+      "green"
+    ]
+  },
+  {
+    "character": "追跡者",
+    "name": "煤けた追跡者の器",
+    "normal": [
+      "blue",
+      "blue",
+      "yellow"
+    ],
+    "deep": [
+      "blue",
+      "blue",
+      "yellow"
+    ]
+  },
+  {
+    "character": "追跡者",
+    "name": "封じられた追跡者の器",
+    "normal": [
+      "blue",
+      "red",
+      "red"
+    ],
+    "deep": [
+      "green",
+      "yellow",
+      "yellow"
+    ]
+  },
+  {
+    "character": "追跡者",
+    "name": "朽ちた追跡者の盃",
+    "normal": [
+      "blue",
+      "green",
+      "yellow"
+    ],
+    "deep": [
+      "blue",
+      "green",
+      "yellow"
+    ]
+  },
+  {
+    "character": "追跡者",
+    "name": "忘れられた追跡者の盃",
+    "normal": [
+      "green",
+      "green",
+      "yellow"
+    ],
+    "deep": [
+      "red",
+      "green",
+      "all"
+    ]
+  },
+  {
+    "character": "守護者",
+    "name": "守護者の器",
+    "normal": [
+      "red",
+      "yellow",
+      "yellow"
+    ],
+    "deep": [
+      "red",
+      "yellow",
+      "yellow"
+    ]
+  },
+  {
+    "character": "守護者",
+    "name": "守護者の盃",
+    "normal": [
+      "blue",
+      "blue",
+      "green"
+    ],
+    "deep": [
+      "blue",
+      "blue",
+      "green"
+    ]
+  },
+  {
+    "character": "守護者",
+    "name": "守護者の高杯",
+    "normal": [
+      "blue",
+      "yellow",
+      "all"
+    ],
+    "deep": [
+      "red",
+      "blue",
+      "yellow"
+    ]
+  },
+  {
+    "character": "守護者",
+    "name": "煤けた守護者の器",
+    "normal": [
+      "red",
+      "green",
+      "green"
+    ],
+    "deep": [
+      "red",
+      "green",
+      "green"
+    ]
+  },
+  {
+    "character": "守護者",
+    "name": "封じられた守護者の器",
+    "normal": [
+      "yellow",
+      "yellow",
+      "red"
+    ],
+    "deep": [
+      "green",
+      "green",
+      "yellow"
+    ]
+  },
+  {
+    "character": "守護者",
+    "name": "朽ちた守護者の盃",
+    "normal": [
+      "yellow",
+      "green",
+      "green"
+    ],
+    "deep": [
+      "yellow",
+      "green",
+      "green"
+    ]
+  },
+  {
+    "character": "守護者",
+    "name": "忘れられた守護者の盃",
+    "normal": [
+      "green",
+      "blue",
+      "blue"
+    ],
+    "deep": [
+      "red",
+      "blue",
+      "all"
+    ]
+  },
+  {
+    "character": "鉄の目",
+    "name": "鉄の目の器",
+    "normal": [
+      "yellow",
+      "green",
+      "green"
+    ],
+    "deep": [
+      "yellow",
+      "green",
+      "green"
+    ]
+  },
+  {
+    "character": "鉄の目",
+    "name": "鉄の目の盃",
+    "normal": [
+      "red",
+      "blue",
+      "yellow"
+    ],
+    "deep": [
+      "red",
+      "blue",
+      "yellow"
+    ]
+  },
+  {
+    "character": "鉄の目",
+    "name": "鉄の目の高杯",
+    "normal": [
+      "red",
+      "green",
+      "all"
+    ],
+    "deep": [
+      "red",
+      "red",
+      "green"
+    ]
+  },
+  {
+    "character": "鉄の目",
+    "name": "煤けた鉄の目の器",
+    "normal": [
+      "blue",
+      "yellow",
+      "yellow"
+    ],
+    "deep": [
+      "blue",
+      "yellow",
+      "yellow"
+    ]
+  },
+  {
+    "character": "鉄の目",
+    "name": "封じられた鉄の目の器",
+    "normal": [
+      "green",
+      "green",
+      "yellow"
+    ],
+    "deep": [
+      "blue",
+      "blue",
+      "red"
+    ]
+  },
+  {
+    "character": "鉄の目",
+    "name": "朽ちた鉄の目の盃",
+    "normal": [
+      "blue",
+      "blue",
+      "green"
+    ],
+    "deep": [
+      "blue",
+      "blue",
+      "green"
+    ]
+  },
+  {
+    "character": "鉄の目",
+    "name": "忘れられた鉄の目の盃",
+    "normal": [
+      "yellow",
+      "blue",
+      "red"
+    ],
+    "deep": [
+      "yellow",
+      "green",
+      "all"
+    ]
+  },
+  {
+    "character": "レディ",
+    "name": "レディの器",
+    "normal": [
+      "red",
+      "blue",
+      "blue"
+    ],
+    "deep": [
+      "red",
+      "blue",
+      "blue"
+    ]
+  },
+  {
+    "character": "レディ",
+    "name": "レディの盃",
+    "normal": [
+      "yellow",
+      "yellow",
+      "green"
+    ],
+    "deep": [
+      "yellow",
+      "yellow",
+      "green"
+    ]
+  },
+  {
+    "character": "レディ",
+    "name": "レディの高杯",
+    "normal": [
+      "blue",
+      "yellow",
+      "all"
+    ],
+    "deep": [
+      "red",
+      "blue",
+      "yellow"
+    ]
+  },
+  {
+    "character": "レディ",
+    "name": "煤けたレディの器",
+    "normal": [
+      "red",
+      "red",
+      "green"
+    ],
+    "deep": [
+      "red",
+      "red",
+      "green"
+    ]
+  },
+  {
+    "character": "レディ",
+    "name": "封じられたレディの器",
+    "normal": [
+      "blue",
+      "blue",
+      "red"
+    ],
+    "deep": [
+      "green",
+      "green",
+      "yellow"
+    ]
+  },
+  {
+    "character": "レディ",
+    "name": "朽ちたレディの盃",
+    "normal": [
+      "blue",
+      "green",
+      "green"
+    ],
+    "deep": [
+      "blue",
+      "green",
+      "green"
+    ]
+  },
+  {
+    "character": "レディ",
+    "name": "忘れられたレディの盃",
+    "normal": [
+      "green",
+      "yellow",
+      "yellow"
+    ],
+    "deep": [
+      "red",
+      "green",
+      "all"
+    ]
+  },
+  {
+    "character": "無頼漢",
+    "name": "無頼漢の器",
+    "normal": [
+      "red",
+      "green",
+      "green"
+    ],
+    "deep": [
+      "red",
+      "green",
+      "green"
+    ]
+  },
+  {
+    "character": "無頼漢",
+    "name": "無頼漢の盃",
+    "normal": [
+      "red",
+      "blue",
+      "yellow"
+    ],
+    "deep": [
+      "red",
+      "blue",
+      "yellow"
+    ]
+  },
+  {
+    "character": "無頼漢",
+    "name": "無頼漢の高杯",
+    "normal": [
+      "red",
+      "red",
+      "all"
+    ],
+    "deep": [
+      "red",
+      "yellow",
+      "yellow"
+    ]
+  },
+  {
+    "character": "無頼漢",
+    "name": "煤けた無頼漢の器",
+    "normal": [
+      "blue",
+      "blue",
+      "green"
+    ],
+    "deep": [
+      "blue",
+      "blue",
+      "green"
+    ]
+  },
+  {
+    "character": "無頼漢",
+    "name": "封じられた無頼漢の器",
+    "normal": [
+      "green",
+      "green",
+      "red"
+    ],
+    "deep": [
+      "yellow",
+      "blue",
+      "blue"
+    ]
+  },
+  {
+    "character": "無頼漢",
+    "name": "朽ちた無頼漢の盃",
+    "normal": [
+      "yellow",
+      "yellow",
+      "green"
+    ],
+    "deep": [
+      "yellow",
+      "yellow",
+      "green"
+    ]
+  },
+  {
+    "character": "無頼漢",
+    "name": "忘れられた無頼漢の盃",
+    "normal": [
+      "yellow",
+      "blue",
+      "red"
+    ],
+    "deep": [
+      "red",
+      "green",
+      "all"
+    ]
+  },
+  {
+    "character": "復讐者",
+    "name": "復讐者の器",
+    "normal": [
+      "blue",
+      "blue",
+      "yellow"
+    ],
+    "deep": [
+      "blue",
+      "blue",
+      "yellow"
+    ]
+  },
+  {
+    "character": "復讐者",
+    "name": "復讐者の盃",
+    "normal": [
+      "red",
+      "red",
+      "green"
+    ],
+    "deep": [
+      "red",
+      "red",
+      "green"
+    ]
+  },
+  {
+    "character": "復讐者",
+    "name": "復讐者の高杯",
+    "normal": [
+      "blue",
+      "green",
+      "all"
+    ],
+    "deep": [
+      "blue",
+      "yellow",
+      "green"
+    ]
+  },
+  {
+    "character": "復讐者",
+    "name": "煤けた復讐者の器",
+    "normal": [
+      "red",
+      "yellow",
+      "yellow"
+    ],
+    "deep": [
+      "red",
+      "yellow",
+      "yellow"
+    ]
+  },
+  {
+    "character": "復讐者",
+    "name": "封じられた復讐者の器",
+    "normal": [
+      "yellow",
+      "blue",
+      "blue"
+    ],
+    "deep": [
+      "green",
+      "green",
+      "red"
+    ]
+  },
+  {
+    "character": "復讐者",
+    "name": "朽ちた復讐者の盃",
+    "normal": [
+      "red",
+      "red",
+      "yellow"
+    ],
+    "deep": [
+      "red",
+      "red",
+      "yellow"
+    ]
+  },
+  {
+    "character": "復讐者",
+    "name": "忘れられた復讐者の盃",
+    "normal": [
+      "green",
+      "red",
+      "red"
+    ],
+    "deep": [
+      "yellow",
+      "green",
+      "all"
+    ]
+  },
+  {
+    "character": "隠者",
+    "name": "隠者の器",
+    "normal": [
+      "blue",
+      "blue",
+      "green"
+    ],
+    "deep": [
+      "blue",
+      "blue",
+      "green"
+    ]
+  },
+  {
+    "character": "隠者",
+    "name": "隠者の盃",
+    "normal": [
+      "red",
+      "blue",
+      "yellow"
+    ],
+    "deep": [
+      "red",
+      "blue",
+      "yellow"
+    ]
+  },
+  {
+    "character": "隠者",
+    "name": "隠者の高杯",
+    "normal": [
+      "yellow",
+      "green",
+      "all"
+    ],
+    "deep": [
+      "blue",
+      "green",
+      "green"
+    ]
+  },
+  {
+    "character": "隠者",
+    "name": "煤けた隠者の器",
+    "normal": [
+      "red",
+      "red",
+      "yellow"
+    ],
+    "deep": [
+      "red",
+      "red",
+      "yellow"
+    ]
+  },
+  {
+    "character": "隠者",
+    "name": "封じられた隠者の器",
+    "normal": [
+      "green",
+      "blue",
+      "blue"
+    ],
+    "deep": [
+      "yellow",
+      "yellow",
+      "red"
+    ]
+  },
+  {
+    "character": "隠者",
+    "name": "朽ちた隠者の盃",
+    "normal": [
+      "red",
+      "red",
+      "blue"
+    ],
+    "deep": [
+      "red",
+      "red",
+      "blue"
+    ]
+  },
+  {
+    "character": "隠者",
+    "name": "忘れられた隠者の盃",
+    "normal": [
+      "yellow",
+      "blue",
+      "red"
+    ],
+    "deep": [
+      "blue",
+      "green",
+      "all"
+    ]
+  },
+  {
+    "character": "執行者",
+    "name": "執行者の器",
+    "normal": [
+      "red",
+      "yellow",
+      "yellow"
+    ],
+    "deep": [
+      "red",
+      "yellow",
+      "yellow"
+    ]
+  },
+  {
+    "character": "執行者",
+    "name": "執行者の盃",
+    "normal": [
+      "red",
+      "blue",
+      "green"
+    ],
+    "deep": [
+      "red",
+      "blue",
+      "green"
+    ]
+  },
+  {
+    "character": "執行者",
+    "name": "執行者の高杯",
+    "normal": [
+      "blue",
+      "yellow",
+      "all"
+    ],
+    "deep": [
+      "yellow",
+      "yellow",
+      "green"
+    ]
+  },
+  {
+    "character": "執行者",
+    "name": "煤けた執行者の器",
+    "normal": [
+      "red",
+      "red",
+      "blue"
+    ],
+    "deep": [
+      "red",
+      "red",
+      "blue"
+    ]
+  },
+  {
+    "character": "執行者",
+    "name": "封じられた執行者の器",
+    "normal": [
+      "yellow",
+      "yellow",
+      "red"
+    ],
+    "deep": [
+      "green",
+      "green",
+      "blue"
+    ]
+  },
+  {
+    "character": "執行者",
+    "name": "朽ちた執行者の盃",
+    "normal": [
+      "red",
+      "red",
+      "yellow"
+    ],
+    "deep": [
+      "red",
+      "red",
+      "yellow"
+    ]
+  },
+  {
+    "character": "執行者",
+    "name": "忘れられた執行者の盃",
+    "normal": [
+      "green",
+      "blue",
+      "red"
+    ],
+    "deep": [
+      "yellow",
+      "green",
+      "all"
+    ]
+  },
+  {
+    "character": "学者",
+    "name": "学者の器",
+    "normal": [
+      "red",
+      "red",
+      "yellow"
+    ],
+    "deep": [
+      "red",
+      "red",
+      "yellow"
+    ]
+  },
+  {
+    "character": "学者",
+    "name": "学者の盃",
+    "normal": [
+      "blue",
+      "green",
+      "yellow"
+    ],
+    "deep": [
+      "blue",
+      "green",
+      "yellow"
+    ]
+  },
+  {
+    "character": "学者",
+    "name": "学者の高杯",
+    "normal": [
+      "red",
+      "blue",
+      "all"
+    ],
+    "deep": [
+      "red",
+      "yellow",
+      "yellow"
+    ]
+  },
+  {
+    "character": "学者",
+    "name": "煤けた学者の器",
+    "normal": [
+      "blue",
+      "green",
+      "green"
+    ],
+    "deep": [
+      "blue",
+      "green",
+      "green"
+    ]
+  },
+  {
+    "character": "学者",
+    "name": "封じられた学者の器",
+    "normal": [
+      "yellow",
+      "red",
+      "red"
+    ],
+    "deep": [
+      "green",
+      "blue",
+      "blue"
+    ]
+  },
+  {
+    "character": "学者",
+    "name": "朽ちた学者の盃",
+    "normal": [
+      "blue",
+      "blue",
+      "green"
+    ],
+    "deep": [
+      "blue",
+      "blue",
+      "green"
+    ]
+  },
+  {
+    "character": "学者",
+    "name": "忘れられた学者の盃",
+    "normal": [
+      "yellow",
+      "green",
+      "blue"
+    ],
+    "deep": [
+      "red",
+      "green",
+      "all"
+    ]
+  },
+  {
+    "character": "葬儀屋",
+    "name": "葬儀屋の器",
+    "normal": [
+      "blue",
+      "green",
+      "green"
+    ],
+    "deep": [
+      "blue",
+      "green",
+      "green"
+    ]
+  },
+  {
+    "character": "葬儀屋",
+    "name": "葬儀屋の盃",
+    "normal": [
+      "red",
+      "yellow",
+      "yellow"
+    ],
+    "deep": [
+      "red",
+      "yellow",
+      "yellow"
+    ]
+  },
+  {
+    "character": "葬儀屋",
+    "name": "葬儀屋の高杯",
+    "normal": [
+      "green",
+      "yellow",
+      "all"
+    ],
+    "deep": [
+      "blue",
+      "green",
+      "yellow"
+    ]
+  },
+  {
+    "character": "葬儀屋",
+    "name": "煤けた葬儀屋の器",
+    "normal": [
+      "red",
+      "red",
+      "blue"
+    ],
+    "deep": [
+      "red",
+      "red",
+      "blue"
+    ]
+  },
+  {
+    "character": "葬儀屋",
+    "name": "封じられた葬儀屋の器",
+    "normal": [
+      "green",
+      "green",
+      "blue"
+    ],
+    "deep": [
+      "yellow",
+      "red",
+      "red"
+    ]
+  },
+  {
+    "character": "葬儀屋",
+    "name": "朽ちた葬儀屋の盃",
+    "normal": [
+      "red",
+      "blue",
+      "blue"
+    ],
+    "deep": [
+      "red",
+      "blue",
+      "blue"
+    ]
+  },
+  {
+    "character": "葬儀屋",
+    "name": "忘れられた葬儀屋の盃",
+    "normal": [
+      "yellow",
+      "yellow",
+      "red"
+    ],
+    "deep": [
+      "blue",
+      "yellow",
+      "all"
+    ]
+  }
+]
